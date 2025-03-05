@@ -1,4 +1,4 @@
-# **Web Scraping + RAG (Retrieval-Augmented Generation) System**
+# **Web Scraping + RAG System**
 
 ## **Overview**
 This project integrates **web scraping**, **vector indexing (FAISS)**, and **retrieval-augmented generation (RAG)** to fetch, store, and retrieve relevant content from online sources. It uses:
